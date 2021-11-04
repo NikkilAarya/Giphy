@@ -1,4 +1,4 @@
 # Giphy
 - Tranding Gifs
 - Search Gifs
-- Good Ui/Ux experiance
+- Smooth rendering and good Ui/Ux experiance
